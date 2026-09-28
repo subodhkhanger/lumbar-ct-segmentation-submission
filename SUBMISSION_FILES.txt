@@ -1,0 +1,36 @@
+# Files in the code ZIP, relative to its root.
+# The two-page REPORT.pdf is also submitted separately.
+# No CTs, reference masks, prepared caches, tests, or virtual environment are included.
+README.md
+TRAINING.md
+REPORT.pdf
+SUBMISSION_FILES.txt
+run_inference.sh
+run_training.sh
+infer.py
+requirements-cpu.lock
+requirements-nnunet.txt
+pyproject.toml
+outputs/nnunet/model.pt
+src/lumbar_ct/__init__.py
+src/lumbar_ct/artifacts.py
+src/lumbar_ct/audit.py
+src/lumbar_ct/body.py
+src/lumbar_ct/boundary_sampling.py
+src/lumbar_ct/cli.py
+src/lumbar_ct/datasets.py
+src/lumbar_ct/evaluate.py
+src/lumbar_ct/geometry.py
+src/lumbar_ct/inference.py
+src/lumbar_ct/nnunet_inference.py
+src/lumbar_ct/nnunet_trainer.py
+src/lumbar_ct/normalization.py
+src/lumbar_ct/prepare.py
+src/lumbar_ct/source_development.py
+src/lumbar_ct/training.py
+scripts/run_full_training.py
+scripts/prepare_full_source.py
+scripts/prepare_nnunet.py
+scripts/train_nnunet.py
+scripts/export_nnunet.py
+scripts/validate_model.py

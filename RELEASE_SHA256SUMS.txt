@@ -1,0 +1,2 @@
+8821d7d0f33cbb05bffb12fb8c3820af1653d6a16b28dca6f5d87ec44833d3d6  lumbar-ct-segmentation.zip
+4d2ea4870bf337d2d8a8a63f0ae64232561c0f98c94798726052893d2cd0c13f  REPORT.pdf
