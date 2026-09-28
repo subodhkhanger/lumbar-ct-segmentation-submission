@@ -5,7 +5,6 @@ Final take-home submission for L1-L5 segmentation and vertebral body centroid ex
 - [Read the two-page report](REPORT.pdf).
 - [Download the complete submission ZIP with trained weights](https://github.com/subodhkhanger/lumbar-ct-segmentation-submission/releases/download/v1.0.0/lumbar-ct-segmentation.zip).
 - [View release files and checksums](https://github.com/subodhkhanger/lumbar-ct-segmentation-submission/releases/tag/v1.0.0).
-- [Training record](TRAINING.md).
 
 For inference, extract the complete release ZIP and run the command below from that extracted folder. The checkpoint is included in the release ZIP; GitHub's automatic source archives and a Git clone contain source code only. Training data is excluded from the submission.
 

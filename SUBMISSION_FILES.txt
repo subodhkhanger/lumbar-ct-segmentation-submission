@@ -2,7 +2,6 @@
 # The two-page REPORT.pdf is also submitted separately.
 # No CTs, reference masks, prepared caches, tests, or virtual environment are included.
 README.md
-TRAINING.md
 REPORT.pdf
 SUBMISSION_FILES.txt
 run_inference.sh
