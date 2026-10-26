@@ -1,6 +1,6 @@
 # Lumbar CT segmentation
 
-**Status: ongoing.** This repository documents a working take-home submission and the results measured so far. The project segments lumbar vertebrae L1–L5 in CT scans and estimates each vertebral body's centre in RAS world coordinates (millimetres).
+**Status: ongoing.**  The project segments lumbar vertebrae L1–L5 in CT scans and estimates each vertebral body's centre in RAS world coordinates (millimetres).
 
 The model is **nnU-Net v2 ResEnc M**, trained from scratch on the official TotalSegmentator training split. It was selected using the 57 TotalSegmentator validation scans. Inference reads CT only; reference labels are used for evaluation.
 
